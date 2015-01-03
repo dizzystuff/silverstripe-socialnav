@@ -2,10 +2,10 @@
 Name: socialnavconfig
 ---
 ## YML Config
-Controller:
-  extensions:
-    - SocialNavControllerExtension
-SiteConfig:
-  extensions:
-    - SocialNavSiteConfigExtension
+#Controller:
+#  extensions:
+#    - SocialNavControllerExtension
+#SiteConfig:
+#  extensions:
+#    - SocialNavSiteConfigExtension
 
